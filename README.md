@@ -17,7 +17,6 @@
 ## Ссылки проекта
 
 - * [Support-Server](https://dsc.gg/avirtual-support)
-  * [Documentation](https://dsc.gg/avirtual-support)
 
 ## Лизенция
 
